@@ -4,8 +4,6 @@
 Hello, World! 🌎 
 <br/>I'm Manish Baral AKA K-adu
 </h2>
-<a href="https://twitter.com/manisbaral">
-  <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 </a>
 <br/>
@@ -34,6 +32,8 @@ Hello, World! 🌎
 </a>
 <a href="#">
   <img align="left" alt="Linkedin" width="150" hight="100" src="#" />
+  <a href="https://twitter.com/manisbaral">
+  <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </br>
 </br>
 </br>
@@ -69,6 +69,8 @@ Hello, World! 🌎
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Jupyter" width="40px" src="<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
 </div>
 <br />
 <br />
