@@ -1,3 +1,6 @@
+# Hello World
+# I am Manish Baral aka K-adu
+
 - 👋 Hi, I’m @K-adu
 - 👀 I’m interested in ... Machine Learning and Deep learning
 - 🌱 I’m currently learning ... Django
