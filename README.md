@@ -76,7 +76,7 @@ Hello, World! 🌎
 <br />
 <br/>
 <div align="left">
-<img alt="Kadu's GitHub Stats" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=K-adu&show_icons=true&hide_border=true&theme=dracula" />
+<img alt="Kadu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K-adu&show_icons=true&theme=radical" />
 </div>
 <br/>
 <div align="left">
