@@ -80,7 +80,7 @@ Hello, World! 🌎
 </div>
 <br/>
 <div align="left">
-<img alt="Most Used Languages" src="https://github-readme-stats-K-adu.vercel.app/api/top-langs/?username=K-adu&hide=TeX&layout=compact&theme=tokyonight&show_icons=true" />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-adu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 <br/>
 <h2 align="left">:) Thank You</h2>
