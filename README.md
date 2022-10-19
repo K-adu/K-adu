@@ -66,9 +66,6 @@ Hello, World! 🌎
 <img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
 <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Jupyter" width="40px" src="<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 </div>
@@ -87,7 +84,7 @@ Hello, World! 🌎
 <br/>
 <h2 align="left">:) Thank You</h2>
 <div align="left">
-<img src="#">
+<div class="tenor-gif-embed" data-postid="16723914" data-share-method="host" data-aspect-ratio="1.08844" data-width="100%"><a href="https://tenor.com/view/goku-bowing-respect-peace-dragon-ball-super-gif-16723914">Goku Bowing GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <hr>
 
