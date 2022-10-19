@@ -28,11 +28,9 @@ Hello, World! 🌎
 𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖗𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊 𝖆𝖇𝖔𝖚𝖙 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌, 𝖇𝖊 𝖎𝖙 𝖘𝖔𝖒𝖊 𝖉𝖔𝖚𝖇𝖙 𝖔𝖗 𝖏𝖚𝖘𝖙 𝖙𝖔 𝖍𝖆𝖓𝖌𝖔𝖚𝖙 𝖆𝖓𝖉 𝖙𝖆𝖑𝖐 𝖔𝖗 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖌𝖆𝖒𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗 𝖏𝖚𝖘𝖙 𝖕𝖎𝖓𝖌 𝖒𝖊 😉.
 
 <a href="mailto:manishbaral112@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="#" />
+ <img align="left" alt="Gmail" width="50" hight="50" src="assets/gmail.png" />
 </a>
-<a href="/assets/gmail.png">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="#" />
-  <a href="https://twitter.com/manisbaral">
+<a href="https://twitter.com/manisbaral">
   <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </br>
 </br>
@@ -84,7 +82,7 @@ Hello, World! 🌎
 <br/>
 <h2 align="left">:) Thank You</h2>
 <div align="left">
-<div class="tenor-gif-embed" data-postid="16723914" data-share-method="host" data-aspect-ratio="1.08844" data-width="100%"><a href="https://tenor.com/view/goku-bowing-respect-peace-dragon-ball-super-gif-16723914">Goku Bowing GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="450" height="300" src="https://github.com/K-adu/K-adu/blob/main/assets/goku-gif-6.gif"/>
 </div>
 <hr>
 
