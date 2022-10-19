@@ -30,7 +30,7 @@ Hello, World! 🌎
 <a href="mailto:manishbaral112@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="#" />
 </a>
-<a href="#">
+<a href="/assets/gmail.png">
   <img align="left" alt="Linkedin" width="150" hight="100" src="#" />
   <a href="https://twitter.com/manisbaral">
   <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
