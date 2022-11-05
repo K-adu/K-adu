@@ -36,11 +36,9 @@ Hello, World! 🌎
     <img align="left" alt="LinkedIn" width="21px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
 </br>
 </br>
-</br>
+<img width="350" height="200" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4786yb8mcqrau4jvrs3ct3l570yk7tjf43xeeulc1q&rid=giphy.gif&ct=g"/>
+
  </p>
-<br />
-<br />
-<br />
 <br />
 <br />
 
