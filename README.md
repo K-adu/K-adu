@@ -32,6 +32,8 @@ Hello, World! 🌎
 </a>
 <a href="https://twitter.com/manisbaral">
   <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+ <a href="https://www.linkedin.com/in/manish-baral-788864227/">
+    <img align="left" alt="LinkedIn" width="21px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
 </br>
 </br>
 </br>
