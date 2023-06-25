@@ -1,60 +1,7 @@
-</a>
-<a href="https://twitter.com/manisbaral">
-  <img align="left" alt="K-adu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 
- <a href=" https://www.instagram.com/6_shanks_9/">
-  <img align="left" alt="K-adu | Twitter" width="21px" src="https://github.com/K-adu/K-adu/blob/main/assets/instagram.png" />
-
- <a href="https://www.linkedin.com/in/manish-baral-788864227/">
-    <img align="left" alt="LinkedIn" width="21px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
-
-</br>
-</br>
 <img width="350" height="200" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4786yb8mcqrau4jvrs3ct3l570yk7tjf43xeeulc1q&rid=giphy.gif&ct=g"/>
- </p>
-<br />
-<br />
-## 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:
-<div>
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Flutter" width="40px" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" />
-<img align="left" alt="Php" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
- </div>
- <br/>
- <br/>
- <br/>
- <div>
- <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" />
-<img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
-<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-</div>
-<br />
-<br />
-<br/>
-<br />
-<br/>
-<div align="left">
-<img alt="Kadu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=K-adu&show_icons=true&theme=radical" />
-</div>
-<br/>
-<div align="left">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-adu&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</div>
-<br/>
-<h2 align="left">:) Thank You</h2>
+
 <div align="left">
 <img width="450" height="300" src="https://github.com/K-adu/K-adu/blob/main/assets/goku-gif-6.gif"/>
 </div>
-<hr>
-<!---
-K-adu/K-adu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
