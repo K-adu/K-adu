@@ -10,4 +10,4 @@ MongoDb
 MySQL  
 </h3>
 
-<h2> this is in plain text as i am learning frontend now haha JK..... will make it better after learning ReactJs</h2>
+<h2> this is in plain text as i am learning frontend now haha  just kidding :p ...  learning ReactJs</h2>
